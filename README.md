@@ -1,6 +1,6 @@
 # [Rock, Paper, Scissor Game](http://startbootstrap.com/)
 
-[Small Business](http://startbootstrap.com/template-overviews/small-business/) is a responsive marketing landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+I re-created a rock, paper, scissor game with HTML, CSS and JavaScript. The games logic was created all with JavaScript from the random pick for AI and keeping track on who won the game.
 
 ## Getting Started
 
