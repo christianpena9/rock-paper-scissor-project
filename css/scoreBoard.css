@@ -1,0 +1,22 @@
+/*CSS for Table Score*/
+table,th,td {
+	width: 720px;
+	border: 1px solid black;
+}
+
+td {
+	font-size: 6em;
+}
+
+#tableHeader {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px;
+}
+
+#tableNames td {
+	text-align: center;
+	padding: 10px;
+}
