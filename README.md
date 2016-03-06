@@ -1,26 +1,16 @@
-# [Rock, Paper, Scissor Game](http://startbootstrap.com/)
+# [Rock, Paper, Scissor Game](http://christianpena9.github.io/rock-paper-scissor-project/)
 
 I re-created a rock, paper, scissor game with HTML, CSS and JavaScript. The games logic was created all with JavaScript from the random pick for AI and keeping track on who won the game.
 
-## Getting Started
+## How to Play
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-small-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/small-business/).
+Usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a simple fist), "paper" (a flat hand), and "scissors" (a fist with the index and middle fingers together forming a V).
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Rock, Paper, Scissor Game was created by **Christian Pena**.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://twitter.com/christianpena9
+* https://github.com/christianpena9
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-small-business/blob/gh-pages/LICENSE) license.
+Rock, Paper, Scissor Game was built on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat). I also used a [Small Business](http://startbootstrap.com/template-overviews/small-business/) template by [David Miller](https://twitter.com/davidmillerskt).
